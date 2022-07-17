@@ -1,4 +1,4 @@
-// Get Chuck quote
+// Get Chuck quote as
 const quoteContainer = document.getElementById("quote-container");
 const quoteText = document.getElementById("quote");
 const quoteWrapper = document.getElementById("quote-content-wrapper");
